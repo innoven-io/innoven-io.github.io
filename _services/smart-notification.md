@@ -1,5 +1,5 @@
 ---
-title: "Mergers"
+title: "Smart Notification"
 image: "/services/default.png"
 ---
 
