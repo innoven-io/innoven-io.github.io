@@ -1,5 +1,5 @@
 ---
-title: 'Business Advisory'
+title: 'Paperless Suite'
 image: '/services/default.png'
 ---
 
