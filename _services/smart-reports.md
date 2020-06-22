@@ -1,5 +1,5 @@
 ---
-title: 'Business Sales'
+title: 'Smart Reports'
 image: '/services/default.png'
 ---
 
