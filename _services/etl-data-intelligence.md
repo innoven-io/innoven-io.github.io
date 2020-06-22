@@ -1,5 +1,5 @@
 ---
-title: 'Tax Preperation'
+title: 'ETL & Data Intelligence'
 image: '/services/noun_1013177.png'
 ---
 
