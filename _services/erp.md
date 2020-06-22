@@ -1,5 +1,5 @@
 ---
-title: 'Accounting'
+title: 'Core ERP'
 image: '/services/noun_591323.png'
 ---
 
