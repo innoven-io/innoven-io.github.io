@@ -1,17 +1,17 @@
 [
   {
     "title": "IT Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "description": "Working with clients move ideas, through user stories to working solutions",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Digitizing and Automation",
+    "description": "Digitize and automate mundane tasks.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Software Engineering",
+    "description": "We use the right tools to help bring your ideas to live.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
